@@ -1,9 +1,9 @@
 import "./App.css";
-import dota from "./dota.jpg";
+import fish from "./fish.jpg";
 
 function App() {
   const name = "Андрій";
-  const website = { name: "Dota", url: "https://www.dota2.com/home" };
+  const website = { name: "Fish", url: "https://www.dota2.com/home" };
   const num1 = 6;
   const num2 = 10;
   const colors = ["Червоний", "Синій", "Зелений"];
@@ -12,7 +12,7 @@ function App() {
     <div className="app">
       <h1 className="app__title">{name}</h1>
       <p className="app__welcome">Ласкаво просимо до нашого сайту!</p>
-      <img className="app__image" src={dota} alt="Dota logo" />
+      <img className="app__image" src={fish} alt="Fish logo" width="300px" />
       <a className="app__link" href={website.url}>
         {website.name}
       </a>
