@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react1/static/css/main.6beace4b.css",
+    "main.js": "/react1/static/js/main.b140edfc.js",
+    "static/media/fish.jpg": "/react1/static/media/fish.8ffa0da160079eb7bc90.jpg",
+    "index.html": "/react1/index.html",
+    "main.6beace4b.css.map": "/react1/static/css/main.6beace4b.css.map",
+    "main.b140edfc.js.map": "/react1/static/js/main.b140edfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6beace4b.css",
+    "static/js/main.b140edfc.js"
+  ]
+}
